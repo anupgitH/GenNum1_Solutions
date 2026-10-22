@@ -31,3 +31,20 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Spring Boot local configuration
+src/main/resources/application-local.properties
+src/main/resources/application-local.yml
+
+# React frontend
+gennum1-frontend/node_modules/
+gennum1-frontend/dist/
+gennum1-frontend/.vite/
+
+# macOS
+.DS_Store
