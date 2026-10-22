@@ -1,3 +1,5 @@
+![image_alt](https://github.com/anupgitH/GenNum1_Solutions/blob/09acd3c80df58345585fcd36e9be6fdb83110d65/GenSol.png)
+
 # GenNum1 Solutions
 
 **AI Integration, Automation & Custom Software Development**
@@ -99,7 +101,4 @@ The frontend and backend must be configured to communicate using the deployed ba
 **Anup Kumar**
 
 Email: anup0kumar1singh2@gmail.com
-
----
-![image_alt](https://github.com/anupgitH/GenNum1_Solutions/blob/09acd3c80df58345585fcd36e9be6fdb83110d65/GenSol.png)
 *Building practical technology solutions through software, AI, and automation.*
